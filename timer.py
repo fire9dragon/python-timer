@@ -7,7 +7,7 @@ if os_name == "posix":
 else:
     command = "cls"
 
-timer_time = int(input("Enter the how long the timer shoud be in Seconds: "))
+timer_time = int(input("Enter for how long the timer shoud be in Seconds: "))
 for i in range(timer_time):
     print(f'{"Seconds passed: "} {i} {"/"} {timer_time}')
     sleep(1)
