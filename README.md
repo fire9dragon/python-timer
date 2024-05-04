@@ -5,9 +5,9 @@ To use it open your terminal and run the these commands:
 
 `cd python-timer`
 
-`pip3 install -r req.txt`
+`sudo apt install python3-tkinter`
 
 `python3 timer.py`
 
 
-NOTE: the thired command only needs to be run on linux if you are on windows you can ignore the "pip3 install -r req.txt"
+NOTE: the thired command only needs to be run on linux if you are on windows you can ignore the "sudo apt install pythn3-tkinter"
